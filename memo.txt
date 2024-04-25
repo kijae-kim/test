@@ -1,0 +1,18 @@
+10. Git Repository Code
+- Repository를 로컬 시스템에 복제하는 방법
+- 지금까지 모든 Repository의 히스토리가 포함
+
+    git clone git주소 (폴더를 생성)
+    git clone git주소 . (폴더를 생성하지 않음)
+
+    git clone <github 주소>
+
+11. 다른 사람과의 협업
+- 원하는 Repository에서 Settings -> Collaborators -> Add people
+     -> 이름 또는 이메일 추가 -> 초대받은 계정의 메일에서 수락
+
+--------------------------------------------------------------
+
+
+
+*GUI : 
